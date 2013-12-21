@@ -1,0 +1,4 @@
+c:\users\ksalomon\documents\visual studio 2010\Projects\WcfRestService2\WcfRestService2\bin\WcfRestService2.dll
+c:\users\ksalomon\documents\visual studio 2010\Projects\WcfRestService2\WcfRestService2\bin\WcfRestService2.pdb
+c:\users\ksalomon\documents\visual studio 2010\Projects\WcfRestService2\WcfRestService2\obj\Debug\WcfRestService2.dll
+c:\users\ksalomon\documents\visual studio 2010\Projects\WcfRestService2\WcfRestService2\obj\Debug\WcfRestService2.pdb
